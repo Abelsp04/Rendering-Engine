@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://d1a59b99-692a-4cca-b44d-370d4794168d.ws-us02.gitpod.io",
+    "address": "https://dfb19584-6519-43d1-8723-c46f77881512.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -101,7 +101,7 @@
         {
             "slug": "02-maping-array-to-li",
             "title": "02-maping-array-to-li",
-            "done": false,
+            "done": true,
             "path": "exercises/02-maping-array-to-li",
             "translations": [
                 "es",
@@ -112,7 +112,7 @@
         {
             "slug": "02.1-maping-array-objects-to-li",
             "title": "02.1-maping-array-objects-to-li",
-            "done": false,
+            "done": true,
             "path": "exercises/02.1-maping-array-objects-to-li",
             "translations": [
                 "es",
