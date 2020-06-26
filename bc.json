@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://bd5b4593-eb14-4cee-b997-35702c75e985.ws-us02.gitpod.io",
+    "address": "https://d1a59b99-692a-4cca-b44d-370d4794168d.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -46,7 +46,7 @@
         {
             "slug": "01.1-hello-world",
             "title": "01.1-hello-world",
-            "done": false,
+            "done": true,
             "path": "exercises/01.1-hello-world",
             "translations": [
                 "es",
@@ -57,7 +57,7 @@
         {
             "slug": "01.2-hello-jsx",
             "title": "01.2-hello-jsx",
-            "done": false,
+            "done": true,
             "path": "exercises/01.2-hello-jsx",
             "translations": [
                 "es",
@@ -68,7 +68,7 @@
         {
             "slug": "01.3-rendering-from-objects",
             "title": "01.3-rendering-from-objects",
-            "done": false,
+            "done": true,
             "path": "exercises/01.3-rendering-from-objects",
             "translations": [
                 "es",
@@ -79,7 +79,7 @@
         {
             "slug": "01.4-building-a-layout",
             "title": "01.4-building-a-layout",
-            "done": false,
+            "done": true,
             "path": "exercises/01.4-building-a-layout",
             "translations": [
                 "es",
@@ -90,7 +90,7 @@
         {
             "slug": "01.5-building-html-from-arrays",
             "title": "01.5-building-html-from-arrays",
-            "done": false,
+            "done": true,
             "path": "exercises/01.5-building-html-from-arrays",
             "translations": [
                 "es",
