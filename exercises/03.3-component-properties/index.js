@@ -10,8 +10,8 @@ const BootstrapCard = props => {
 			<div className="card-body">
 				<h5 className="card-title">{props.title}</h5>
 				<p className="card-text">{props.description}</p>
-				<a href={PropType.imageUrl} className="btn btn-primary">
-					{PropType.buttonUrl}
+				<a href={PropType.buttonUrl} className="btn btn-primary">
+					{PropType.button}
 				</a>
 			</div>
 		</div>
@@ -20,10 +20,10 @@ const BootstrapCard = props => {
 BootstrapCard.propTypes = {
 	title: PropType.string,
 	// 2) add here the new properties into the proptypes object
-	imageUrl: PropType.href,
+	imageUrl: PropType.url,
 	description: PropType.string,
 	buttonUrl: PropType.url,
-	buttonLabel: PropType.string
+	buttonLabel: PropType.label
 };
 
 // 3) Use ReactDOM to add the component into then DOM element #myDiv

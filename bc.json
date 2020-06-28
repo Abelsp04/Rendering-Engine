@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://f9ab67ae-b67f-4dd6-b1b0-e9ca8dedf34a.ws-us02.gitpod.io",
+    "address": "https://d124ae77-0de2-4750-a398-da3f0a14a453.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -178,7 +178,7 @@
         {
             "slug": "03.4-jumbotron",
             "title": "03.4-jumbotron",
-            "done": false,
+            "done": true,
             "path": "exercises/03.4-jumbotron",
             "translations": [
                 "es",
@@ -189,7 +189,7 @@
         {
             "slug": "03.5-alert-component",
             "title": "03.5-alert-component",
-            "done": false,
+            "done": true,
             "path": "exercises/03.5-alert-component",
             "translations": [
                 "es",
@@ -200,7 +200,7 @@
         {
             "slug": "04-conditional-rendering",
             "title": "04-conditional-rendering",
-            "done": false,
+            "done": true,
             "path": "exercises/04-conditional-rendering",
             "translations": [
                 "es",
